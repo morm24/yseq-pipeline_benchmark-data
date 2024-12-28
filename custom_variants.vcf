@@ -1,0 +1,12 @@
+##fileformat=VCFv4.2
+##source=Custom
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chrY	1050011	.	C	A	.	PASS	ID=
+chrY	15312799	.	C	G	.	PASS	ID=own_snp
+chrY	15312801	.	A	AG	.	PASS	ID=own_in
+chrY	15312804	.	T	G	.	PASS	ID=Y99118
+chrY	15312811	.	TA	T	.	PASS	ID=own_del
+chrM	7135	.	A	AT	.	PASS	ID=own_in
+chrM	7138	.	T	A	.	PASS	ID=own_snp
+chrM	7142	.	T	C	.	PASS	ID=7142C
+chrM	7150	.	TC	C	.	PASS	ID=own_del
